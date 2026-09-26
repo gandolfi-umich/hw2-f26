@@ -81,6 +81,10 @@ div {
   border-top: 2px solid #FFFFFF;
 }
 
+.green p {
+  color: #0D0D0D;
+}
+
 footer {
   background: linear-gradient(to right, #000000 0%, #0000FF 25%, #0066FF 70%, #000000 100%);
   border: 5px solid #FFFFFF;
